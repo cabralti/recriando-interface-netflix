@@ -90,3 +90,10 @@ header nav a:hover{
 .filme-principal .botao i{
     margin-right: 8px;
 }
+
+/* CARROSEL FILMES */
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
